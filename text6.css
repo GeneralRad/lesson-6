@@ -1,0 +1,16 @@
+.group{
+  font-family: Montserrat;
+  font-weight:bold;
+  text-align: center;
+  font-size: 56px;
+  margin-bottom: 0px;
+  margin-top:20px;
+}
+.way{
+  text-decoration: underline;
+  margin-top:5px;
+  
+}
+.bill{
+  font-weight: bold;
+}
